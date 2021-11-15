@@ -15,3 +15,10 @@ The total temperatures for the months of June and December were retrieved and a 
 - Finally another key element of both charts is not a difference but the coincidence that their quartiles have the same difference between each other of aproximately 4°F like their means had. 
 
 ## Summary
+To summarize the analysis two new queries were made. The queries were to obtain the total precipitation for both months.
+
+![image](https://user-images.githubusercontent.com/89402038/141825912-c96f7027-02b2-4cb6-9302-f77c65a12c17.png)
+
+![image](https://user-images.githubusercontent.com/89402038/141825951-2bf8237a-2bb1-4efe-9e58-0e7bab983b39.png)
+
+As seen from both tables the chances of rain are higher in December than in June, therefore the month which is more suitable for surfing would be June due to the higher temperatures and lower chances of rain. I would suggest to open the store in April/May, to first of all establish get the store running and prepare for a high demand in June. Then as winter approaches perhaps start to change the items at sale. For example, due to the lower temperatures the water will be colder, therefore people would like to buy a wetsuit to surf. The climate in December is not to different from June but is less suitable for surfing. 
